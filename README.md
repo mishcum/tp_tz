@@ -8,7 +8,7 @@
 
 Выводит информацию о том, из какой директории и с каким названием был скопирован файл, например:
 ```
-mishasmacbook@MacBook-Pro-Mishas tp_tz % ./first_tz.sh tp_hse/tests/tests1 tp_hse/tests/tests4
+macbook@MacBook-Pro-Mishas tp_tz % ./first_tz.sh tp_hse/tests/tests1 tp_hse/tests/tests4
 --------------------------
 Your input directory:
 tp_hse/tests/tests1
